@@ -1,2 +1,2 @@
 # ML-assignments
-Assignments of CSE 472 (Machine Learning sessional) of BUET
+My solutions to the assignments of CSE472 (Machine Learning sessional) of BUET
